@@ -4,7 +4,7 @@
 Tương thích các phiên bản Microsoft Office và ứng dụng Office gồm Excel, Word, Access, PowerPoint
 
 -------------------------------------------------------------------------
-[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/TranslateXL/total.svg)](https://github.com/SanbiVN/ObjectBoxVni/releases/download/ObjectBox/ObjectBoxVni_v3.34.xlsm)
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/ObjectBoxVni/total.svg)](https://github.com/SanbiVN/ObjectBoxVni/releases/download/ObjectBox/ObjectBoxVni_v3.34.xlsm)
 
 
 ![objectBoxVni_table](https://github.com/SanbiVN/ObjectBoxVni/assets/58664571/52392a4a-7d99-48c4-b2c3-d3514b273842)
